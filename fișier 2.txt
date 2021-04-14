@@ -1,2 +1,2 @@
-schimbare locala
+schimbare server 1
 alt schimbat 2 de dragul conflictelor
