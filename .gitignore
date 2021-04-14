@@ -20,6 +20,5 @@
 *.rar
 
 /.idea/
-/.gradle/
 /build/
 /gradle/
