@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-schimbare locala 2
-=======
-schimbare server 1
->>>>>>> c650315357d62fa4d5362cfe83dd8a7c649f325b
+schimbare locala bla bla
 alt schimbat 2 de dragul conflictelor
